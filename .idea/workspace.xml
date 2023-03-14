@@ -4,14 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cb0fd2a-7b26-47ea-86a6-faa09738cdb2" name="Changes" comment="" />
+    <list default="true" id="6cb0fd2a-7b26-47ea-86a6-faa09738cdb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/django_dereck/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/tooplate-ben-resume-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ben.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/testimonials/testimonial-image01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/testimonials/testimonial-image02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/testimonials/testimonial-image03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/testimonials/testimonial-image04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/true-agency.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/smoothscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/localfonts/Plain-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/localfonts/Plain-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/localfonts/Plain-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/localfonts/Plain-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/localfonts/Plain-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/localfonts/Plain-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_dereck/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_dereck/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_dereck/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_dereck/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MjLI9Ci8K3LOpghPdbMhPSEW3j" />
   <component name="ProjectViewState">
@@ -20,11 +82,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/admin/Desktop/Dereck/django_dereck/static",
+    "list.type.of.created.stylesheet": "CSS"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Dereck\django_dereck\static" />
+      <recent name="C:\Users\admin\Desktop\Dereck\django_dereck\static\css" />
+      <recent name="C:\Users\admin\Desktop\Dereck\django_dereck\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Dereck\django_dereck\static" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="django_dereck" type="Python.DjangoServer" factoryName="Django server">
       <module name="django_dereck" />
@@ -59,6 +134,10 @@
       <option name="presentableId" value="Default" />
       <updated>1678275971428</updated>
       <workItem from="1678276211688" duration="2573000" />
+      <workItem from="1678424765300" duration="1733000" />
+      <workItem from="1678427308660" duration="6922000" />
+      <workItem from="1678569144589" duration="15000" />
+      <workItem from="1678706612696" duration="6704000" />
     </task>
     <servers />
   </component>
